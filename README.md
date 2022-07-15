@@ -1,2 +1,2 @@
-# presentaion-math
+# presentation-math
 continuous model
